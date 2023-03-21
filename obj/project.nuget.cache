@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xLlTcyOO/nR5tLaMeYcWX58NMQZHHGyStKTfpc/2NQUpIkiYeF4W4qIEsfEwza7xFCn1a82qrmAWCqGnuD7LWg==",
+  "success": true,
+  "projectFilePath": "/Users/johansvensson/Documents/c#/BlazorApp/BlazorApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/johansvensson/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/johansvensson/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/johansvensson/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.15/microsoft.netcore.app.host.osx-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
